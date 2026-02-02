@@ -1,0 +1,7 @@
+{
+  "name": "Zohan Design: Future Project Fixture",
+  "description": "A high-fidelity dashboard for generating, visualizing, and simulating futuristic architectural concepts using generative AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
